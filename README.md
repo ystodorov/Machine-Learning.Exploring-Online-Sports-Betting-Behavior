@@ -19,3 +19,9 @@ I've used the following two datasets:
  - "depositsdata.csv" - transactional data with deposits made by players on the iGaming website.
  - "betsdata.csv" - encompasses transactional details of player bets
 
+## Research: 
+I. Initial data manipulations
+I. Initial data manipulations
+II. Feature engineering and train test split
+III. Clustering
+IV. Random Forest
