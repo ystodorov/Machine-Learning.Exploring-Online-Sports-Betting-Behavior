@@ -19,4 +19,14 @@ I've used the following two datasets:
  - "depositsdata.csv" - transactional data with deposits made by players on the iGaming website.
  - "betsdata.csv" - encompasses transactional details of player bets
 
-## [I. Initial data manipulations](I.%20Initial%20data%20manipulations.ipynb)
+## Key Accomplishments and conclusion
+ 
+ In conclusion, this project represents a comprehensive exploration of sportsbook transactions, leveraging data-driven methodologies to uncover hidden patterns and nuances within player activities. The strategic implications of the findings extend beyond descriptive analytics, offering actionable insights for personalized player engagement and informed risk management. The successful application of unsupervised learning techniques, coupled with model validation, establishes a robust framework for ongoing refinement and optimization of player segmentation strategies. 
+ 
+ I think the project serves its purpose to provide some predictive analytics using key markers of harm to identify trends in risky behavior and determine a players likelihood of becoming different thresholds of at risk.
+ 
+ Further research and exploration of additional features could lead to more nuanced segmentation of the players. I want to apply some dimensionality reduction strategy and re-cluster the players in order to increase the number of groups (potentially by involving the bonus perfromance and the type of sports the player enjoys betting on).
+ In conclusion, this project represents a comprehensive exploration of sportsbook transactions, leveraging data-driven methodologies to uncover hidden patterns and nuances within player activities. The strategic implications of the findings extend beyond descriptive analytics, offering actionable insights for personalized player engagement and informed risk management. The successful application of unsupervised learning techniques, coupled with model validation, establishes a robust framework for ongoing refinement and optimization of player segmentation strategies.
+ 
+ Further research and exploration of additional features could lead to more nuanced segmentation of the players. Some additional dimensionality reduction strategy could leverage a more fine-tuned clustering on the players in order to increase the number of groups (potentially by involving the bonus performance and the type of sports the player enjoys betting on). Random forest can also be used to achieve additional predictive analytics using key markers of harm to identify trends in risky behavior and determine a players likelihood of becoming different thresholds of at risk.
+ 
