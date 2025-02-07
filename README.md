@@ -20,8 +20,9 @@ I've used the following two datasets:
  - "betsdata.csv" - encompasses transactional details of player bets
 
 ## Research: 
-I. Initial data manipulations
-I. Initial data manipulations
-II. Feature engineering and train test split
-III. Clustering
-IV. Random Forest
+
+I. Initial data manipulations<br>
+I. Initial data manipulations<br>
+II. Feature engineering and train test split<br>
+III. Clustering<br>
+IV. Random Forest<br>
